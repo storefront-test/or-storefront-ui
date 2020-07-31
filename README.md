@@ -149,6 +149,7 @@ NAME                  DESIRED   CURRENT   UP-TO-DATE   AVAILABLE   AGE
 web-web   			      1         1         1            1           10h
 ```
 
+
 The `-w` flag is so that the command above not only retrieves the deployment but also listens for changes. If you a 1 under the `CURRENT` column, that means that the web app deployment is ready.
 
 ## Validate the Web Application
